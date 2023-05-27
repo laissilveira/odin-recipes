@@ -8,6 +8,15 @@
     font-family: 'Didact Gothic', sans-serif;
 }
 
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: brown;
+}
+
 h1 {
     display: flex;;
     justify-content: center;
@@ -19,10 +28,11 @@ h1 {
 .main {
     display: flex;
     font-size: 22px;
-    font-weight: bold;
 }
 
-
+.main img {
+    margin-left: 50px;;
+}
 
 .main ul {
     margin: 50px;
