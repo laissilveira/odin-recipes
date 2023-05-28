@@ -6,6 +6,7 @@
     margin: 0;
     text-decoration: none;
     font-family: 'Didact Gothic', sans-serif;
+    background-color: rgb(234, 199, 153);
 }
 
 a:visited {
@@ -18,7 +19,7 @@ a:hover {
 }
 
 h1 {
-    display: flex;;
+    display: flex;
     justify-content: center;
     font-family: 'Pacifico', cursive;
     font-size: 40px;
@@ -31,7 +32,8 @@ h1 {
 }
 
 .main img {
-    margin-left: 50px;;
+    margin-left: 50px;
+    border-radius: 10%;
 }
 
 .main ul {
